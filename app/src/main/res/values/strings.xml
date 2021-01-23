@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QP Admin</string>
+    <string name="add_qtn_from_disks_title">Add Question</string>
+    <string name="file_alrady_in_list_txt">File is already in the list!</string>
+    <string name="import_txt">Import</string>
+    <string name="dlt_src_after_import_txt">Delete source after import</string>
+    <string name="not_valid_qpack_txt">The file you selected is not a valid question pack file or it is corrupted</string>
+    <string name="cancel_btn_text">Cancel</string>
+    <string name="cancel_pending_txt">Cancelling…</string>
+    <string name="loading_txt">Loading…</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_str">Log In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="account_create_txt">To get started, create an account.</string>
+    <string name="login_activity_txt">To get started, sign in to your account. If you don\'t have any account, tap on \'CRETAE NEW ACCOUNT\'</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>

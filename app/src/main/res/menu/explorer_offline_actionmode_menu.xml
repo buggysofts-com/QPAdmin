@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/eoffam0" android:title="Upload" android:icon="@drawable/upload_qtn_icon_white" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/eoffam1" android:title="Share" android:icon="@drawable/share_icon_white" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/eoffam2" android:title="Delete" android:icon="@drawable/delete_white" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/eoffam3" android:title="Export" android:icon="@drawable/export_white" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/eoffam4" android:title="Select All" android:icon="@drawable/select_all_icon" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/eoffam5" android:title="Clear Selection" android:icon="@drawable/clear_all_icon" app:showAsAction="ifRoom"/>
+</menu>

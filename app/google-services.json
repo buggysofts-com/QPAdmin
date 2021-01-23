@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "401971930907",
+    "firebase_url": "https://qpadmin-f648d.firebaseio.com",
+    "project_id": "qpadmin-f648d",
+    "storage_bucket": "qpadmin-f648d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401971930907:android:11069b80a0afe34d",
+        "android_client_info": {
+          "package_name": "com.ruet_cse_1503050.ragib.qp_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401971930907-do729d425ruharrps21adokclcrlqttl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruet_cse_1503050.ragib.qp_admin",
+            "certificate_hash": "1642387c66256d8c888c828df118b71265a1ed24"
+          }
+        },
+        {
+          "client_id": "401971930907-o4u0ndlb05nki82aev8md03ql9hm9a42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ruet_cse_1503050.ragib.qp_admin",
+            "certificate_hash": "3a5822e4eb5499e31cf08ddfccd8f3c9f70525c2"
+          }
+        },
+        {
+          "client_id": "401971930907-ajdmj5sdjk3pruo8jo079kva0k5765s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTi3OGDcUQOAEcE0YbxjNghi8sojKriU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401971930907-ajdmj5sdjk3pruo8jo079kva0k5765s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Share"/>
+    <item android:title="Delete"/>
+    <item android:title="Export"/>
+    <item android:title="Upload to Firebase"/>
+</menu>

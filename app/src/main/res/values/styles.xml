@@ -1,0 +1,41 @@
+<resources>
+
+    <style name="AppTheme.Splash">
+        <item name="android:windowBackground">@drawable/splash_xml</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarSize">72dp</item>
+        <item name="actionModeStyle">@style/AppTheme.ActionModeStyle</item>
+    </style>
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarSize">72dp</item>
+        <item name="actionModeStyle">@style/AppTheme.ActionModeStyle</item>
+    </style>
+    <style name="AppTheme.ActionModeStyle">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="height">72dp</item>
+        <item name="titleTextStyle">@style/AppTheme.title_style</item>
+        <item name="subtitleTextStyle">@style/AppTheme.subtitle_style</item>
+    </style>
+    <style name="AppTheme.title_style">
+        <item name="android:textColor">@color/color_white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">15dp</item>
+    </style>
+    <style name="AppTheme.subtitle_style">
+        <item name="android:textColor">@color/color_black</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+</resources>
